@@ -2,7 +2,7 @@
 
 -👋 Hi, I'm Vitor Alves Gini and I'm a programmer student! <br>
 -👀 I'm interested in developing systems and learning as much as I can about all programming languages.<br>
--🌱 I’m currently learning PHP🐘, Javascript and Kotlin📱.<br>
+-🌱 I’m currently learning PHP🐘, Javascript and python.<br>
 - 💻 My favorite and current IDE <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 
 <div>
