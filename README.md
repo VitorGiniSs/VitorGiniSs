@@ -3,7 +3,7 @@
 -👋 Hi, I'm Vitor Alves Gini and I'm a programmer student! <br>
 -👀 I'm interested in developing systems and learning as much as I can about all programming languages.<br>
 -🌱 I’m currently learning PHP🐘 and Javascript.<br>
-- 💻 My favorite and current IDE <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="CSS3" width="40" height="40"/>/>
+- 💻 My favorite and current IDE <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="CSS3" width="40" height="40"/>
 <div>
     <a href="https://github.com/VitorGiniSs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorGiniSs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
